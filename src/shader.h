@@ -1,4 +1,4 @@
-#include "GLAD/glad.h" // https://glad.dav1d.de/
+#include "glad/glad.h" // https://glad.dav1d.de/
 #include <GLFW/glfw3.h>
 #include <stdio.h>
 #include <stdlib.h>

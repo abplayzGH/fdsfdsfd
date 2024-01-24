@@ -1,7 +1,7 @@
 //
 // cc glfw-opengl-example.c glad.c -lglfw
 //
-#include "GLAD/glad.h" // https://glad.dav1d.de/
+#include "glad/glad.h" // https://glad.dav1d.de/
 #include <GLFW/glfw3.h>
 #include <glm/glm.hpp>
 #include <glm/gtx/transform.hpp>
